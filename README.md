@@ -1,17 +1,22 @@
 # Hey, I'm Jeremy 👋
 
-I work in IT — but at some point just reading tickets wasn't enough.  
-So I started building things. Self-taught, no bootcamp, no course. Just curiosity and a homelab that keeps growing.
+It started with building my first PC — and wanting to access it from anywhere.  
+That one idea led to a VPN, then a DNS server, then Nextcloud, a NAS, a firewall... and it never really stopped.
 
-Most of what I make isn't for anyone else. It solves a problem I have, runs on a server in my flat, and probably breaks at 2am. That's fine.
+Through my job in IT I picked up hands-on experience with fiber infrastructure, 10Gbit/s+ networks and everything that comes with running serious network setups. The homelab at home just kept growing alongside that.
+
+These days I write code when something in my setup needs it — Python scripts, small Flask apps, whatever fills the gap. Self-taught, no course, just problems that needed solving.
 
 ---
 
-### What I'm into
+### What's running
 
-- **Homelab** — self-hosting services, tinkering with Linux, keeping things running (or figuring out why they aren't)
-- **Python** — scripting, small Flask apps, whatever gets the job done
-- **Sim Racing** — Assetto Corsa, running my own dedicated server with a custom web UI to manage it
+- **VPN** — always-on remote access, how it all started
+- **DNS** — self-hosted, no ads, no logging
+- **Nextcloud** — own cloud, own data
+- **NAS** — local storage, proper backups
+- **Firewall** — because opening everything to the internet is a bad idea
+- **Sim Racing** — Assetto Corsa dedicated server with a custom Flask web UI to manage it
 
 ---
 
@@ -19,7 +24,7 @@ Most of what I make isn't for anyone else. It solves a problem I have, runs on a
 
 | | |
 |---|---|
-| `ac-server-manager` | Flask web UI to manage an Assetto Corsa dedicated server — because the default tooling wasn't good enough |
+| `ac-server-manager` | Flask web UI for an Assetto Corsa dedicated server — built it because nothing else did what I wanted |
 
 ---
 
