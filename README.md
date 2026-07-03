@@ -1,22 +1,20 @@
 # Hey, I'm Jeremy 👋
 
-It started with building my first PC — and wanting to access it from anywhere.  
-That one idea led to a VPN, then a DNS server, then Nextcloud, a NAS, a firewall... and it never really stopped.
+Curiosity got expensive fast. Building my first PC was just the beginning — once you want more control over your own setup, one thing leads to another, and suddenly you're deep into infrastructure you never planned to run.
 
-Through my job in IT I picked up hands-on experience with fiber infrastructure, 10Gbit/s+ networks and everything that comes with running serious network setups. The homelab at home just kept growing alongside that.
+My day job in IT added a different dimension to that — working with high-speed networks and real enterprise setups gave me a perspective you don't get from tutorials.
 
-These days I write code when something in my setup needs it — Python scripts, small Flask apps, whatever fills the gap. Self-taught, no course, just problems that needed solving.
+The coding came naturally out of all of it. Self-taught, driven by actual problems I wanted to solve, not a curriculum.
+
+If something in my stack annoys me, I fix it. If there's no tool that does what I need, I build one. It's rarely the most efficient use of a weekend — but it's never boring.
 
 ---
 
-### What's running
+### Interests
 
-- **VPN** — always-on remote access, how it all started
-- **DNS** — self-hosted, no ads, no logging
-- **Nextcloud** — own cloud, own data
-- **NAS** — local storage, proper backups
-- **Firewall** — because opening everything to the internet is a bad idea
-- **Sim Racing** — Assetto Corsa dedicated server with a custom Flask web UI to manage it
+- **Homelab & self-hosting** — owning my stack, understanding every layer
+- **Networking** — from tinkering at home to fiber infrastructure at work
+- **Sim Racing** — Assetto Corsa, with tooling I built myself to run it properly
 
 ---
 
