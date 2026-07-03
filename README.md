@@ -23,5 +23,5 @@ If something in my stack annoys me, I fix it. If there's no tool that does what 
 
 | | |
 |---|---|
-| `ac-server-manager` | Flask web UI for an Assetto Corsa dedicated server — built it because nothing else did what I wanted |
+| [`AssettoCorsaServerManager`](https://github.com/jyxbk/AssettoCorsaServerManager) | Flask web UI for an Assetto Corsa dedicated server — built it because nothing else did what I wanted |
 | [`MTB-Track-Timer`](https://github.com/jyxbk/MTB-Track-Timer) | Timing system for MTB tracks — because stopwatches are boring |
